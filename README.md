@@ -18,16 +18,26 @@ This repo contains plans, resource links and progress in the form of checklist.
   - [ ] [Machine Learning CS229 @ Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
     - [ ] [Supplementary](https://cs229.stanford.edu/)
 
-- [ ] Deep Learning:
-  - [ ] Deep learning web book by Michael Nielsen
+- [ ] Deep Learning Theory:
+  - [ ]  DeepLearning.ai
+    - [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)  
+    - [ ] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+    - [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+    - [ ] [Convololutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+    - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+    - [ ] [Build Basic Generative Adversarial Networks](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
+    - [ ] [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
+    - [ ] [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
+    - [ ] [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+    - [ ] [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+    - [ ] [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
+    - [ ] [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+  - [ ] [DS-GA 1008 · SPRING 2021](https://cds.nyu.edu/deep-learning/)
+  - [ ] [Stanford CS224N NLP wioth DL](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+  - [ ] [Deep Learning Text Book](https://www.deeplearningbook.org/)
+ 
+- [ ] Deep Learning Practicum
+ - [ ] [Intro to Tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+ - [ ] [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
-- [ ] CS224 Stanford - for NLP
-- [ ] CS231 Stanford - for Vision
-- [ ] Try to take the latest offering available on youtube
-
-- [ ] Advanced:
-- [ ] PGM by Eric Xiang CMU 10-708
-
-- [ ] Reinforcement Learning :
-- [ ] 10 lectures by David Silver
-
+- [ ] [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
