@@ -17,13 +17,14 @@ This repo contains plans, resource links and progress in the form of checklist.
   - [ ] [Machine Learning for Intelligent Systems CS4780 by Kilian Weinberger](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)
   - [ ] [Machine Learning CS229 @ Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
     - [ ] [Supplementary](https://cs229.stanford.edu/)
+  - [ ] [Machine Learning with Python from Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms)
 
 - [ ] Deep Learning Theory:
   - [ ]  DeepLearning.ai
     - [ ] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)  
     - [ ] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
     - [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
-    - [ ] [Convololutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+    - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
     - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
     - [ ] [Build Basic Generative Adversarial Networks](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
     - [ ] [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
@@ -37,7 +38,15 @@ This repo contains plans, resource links and progress in the form of checklist.
   - [ ] [Deep Learning Text Book](https://www.deeplearningbook.org/)
  
 - [ ] Deep Learning Practicum
- - [ ] [Intro to Tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
- - [ ] [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+  - [ ] [Intro to Tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+  - [ ] [Deep Learning with PyTorch from Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans))
 
 - [ ] [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
+
+- [ ] Data Structures and Algorithms
+  - [ ] [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
+  - [ ] [Algorithms, Part1](https://www.coursera.org/learn/algorithms-part1)
+  - [ ] [Algorithms, Part2](https://www.coursera.org/learn/algorithms-part2)
+  - [ ] 
+
+
