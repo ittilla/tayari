@@ -62,3 +62,7 @@ This repo contains plans, resource links and progress in the form of checklist.
     - [ ] [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
     - [ ] [Algorithms, Part1](https://www.coursera.org/learn/algorithms-part1)
     - [ ] [Algorithms, Part2](https://www.coursera.org/learn/algorithms-part2)
+
+- [ ] Miscellaneous
+  - [ ] System Design Interview: An Insider's Guide
+  - [ ] Cracking the Coding Interview  
