@@ -43,10 +43,22 @@ This repo contains plans, resource links and progress in the form of checklist.
 
 - [ ] [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
 
-- [ ] Data Structures and Algorithms
-  - [ ] [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
-  - [ ] [Algorithms, Part1](https://www.coursera.org/learn/algorithms-part1)
-  - [ ] [Algorithms, Part2](https://www.coursera.org/learn/algorithms-part2)
-  - [ ] 
+- [ ] Software Engineering
+  - [ ] Programming
+    - [ ] Python
+      - [ ] [Python Beginner Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc)
+      - [ ] [Python Intermediate Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1)
+      - [ ] [Python Advanced Tutorial: The Python Engineer](https://www.python-engineer.com/courses/advancedpython/)
+      - [ ] [Python Advanced Tutorial: Neural Nine](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc)
+      - [ ] [Python Tips and Tricks](https://www.youtube.com/playlist?list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau)    
+      - [ ] [ML From Scratch in Python](https://www.python-engineer.com/courses/mlfromscratch/)
+      - [ ] [Python Data Science Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk)
+    - [ ] C++
+      - [ ] [C++ Programming Course Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+      - [ ] [C++ STL by Example: Doug Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1)
+      - [ ] [Intermediate Software Design](https://www.dre.vanderbilt.edu/~schmidt/cs251/)
 
-
+  - [ ] Data Structures and Algorithms
+    - [ ] [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
+    - [ ] [Algorithms, Part1](https://www.coursera.org/learn/algorithms-part1)
+    - [ ] [Algorithms, Part2](https://www.coursera.org/learn/algorithms-part2)
