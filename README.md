@@ -13,7 +13,7 @@ This repo contains plans, resource links and progress in the form of checklist.
   - [ ] [LINEAR ALGEBRA MIT 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 
-- [ ] Machine learning :
+- [ ] Machine Learning:
   - [ ] [Machine Learning for Intelligent Systems CS4780 by Kilian Weinberger](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)
   - [ ] [Machine Learning CS229 @ Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
     - [ ] [Supplementary](https://cs229.stanford.edu/)
@@ -34,7 +34,7 @@ This repo contains plans, resource links and progress in the form of checklist.
     - [ ] [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
     - [ ] [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
   - [ ] [DS-GA 1008 · SPRING 2021](https://cds.nyu.edu/deep-learning/)
-  - [ ] [Stanford CS224N NLP wioth DL](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+  - [ ] [Stanford CS224N NLP with DL](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
   - [ ] [Deep Learning Text Book](https://www.deeplearningbook.org/)
  
 - [ ] Deep Learning Practicum
