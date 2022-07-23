@@ -38,6 +38,9 @@ This repo contains plans, resource links and progress in the form of checklist.
   - [ ] [Deep Learning Text Book](https://www.deeplearningbook.org/)
  
 - [ ] Deep Learning Practicum
+  - [ ] FastAI
+    - [ ] [Fast AI Course](http://course.fast.ai/)
+    - [ ] [Fast AI book](https://github.com/fastai/fastbook)
   - [ ] [Intro to Tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
   - [ ] [Deep Learning with PyTorch from Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans))
 
