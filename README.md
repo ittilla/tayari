@@ -66,3 +66,4 @@ This repo contains plans, resource links and progress in the form of checklist.
 - [ ] Miscellaneous
   - [ ] System Design Interview: An Insider's Guide
   - [ ] Cracking the Coding Interview  
+  - [ ] [Dockers](https://www.linkedin.com/learning/paths/prepare-for-the-docker-certified-associate-dca-certification?u=70941226)
